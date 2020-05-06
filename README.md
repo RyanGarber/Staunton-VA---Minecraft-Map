@@ -29,3 +29,8 @@ The Mill Street building, Stonewall Jackson Hotel garage, and walls for the hote
 ![Staunton view from Amtrak station/parking garage in Minecraft](https://i.imgur.com/H4nSxRA.png)
 
 The parking garage and all surrounding buildings were built. The Amtrak station and track were connected to the 250/11 bridge. Lots of sidewalks and road lane improvements.
+
+
+### Day 4
+![Staunton S New St - W Johnson St - Stonewall Jackson Hotel skyline in Minecraft](https://i.imgur.com/Y85EiLO.png)
+
