@@ -34,6 +34,5 @@ The parking garage and all surrounding buildings were built. The Amtrak station 
 ### Day 4
 ![Staunton S New St - W Johnson St - Stonewall Jackson Hotel skyline in Minecraft](https://i.imgur.com/Y85EiLO.png)
 ![Downtown Staunton skyline in Minecraft](https://i.imgur.com/YMVcpFq.png)
-![Downtown Staunton skyline in Minecraft](https://i.imgur.com/xi6AV69.png)
-![Downtown Staunton skyline in Minecraft](https://i.imgur.com/F2Vh9DX.png)
+![Downtown Staunton skyline in Minecraft](https://i.imgur.com/JEj5NEY.png)
 Walls went up for many blocks and sidewalks installed. Multiple alleyways were made and tens of buildings.  
