@@ -1,6 +1,6 @@
 # Staunton, VA Minecraft Map
 
-> Update May 13th: you can now download the [Build The Earth modpack](https://www.twitch.tv/downloads) on the Twitch app, or install Minecraft Forge 1.12.2 manually to join the server and look around!
+> Update May 13th: you can now download the [Build The Earth modpack](https://www.twitch.tv/downloads) on the Twitch app, or simply install [Minecraft Forge 1.12.2](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html) by itself using the installer to join the server and look around!
 >
 > ### IP: mc.ryan.gq
 
