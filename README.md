@@ -1,5 +1,5 @@
 # Staunton, VA Minecraft Map
-Work in progress map of the entirety of Staunton, Virginia. I work on the map pretty much daily and *should*(tm) post updates here, as they happen.
+Work in progress map of the entirety of Staunton, Virginia. I work on the map pretty much daily and *should*(tm) post updates here, as they happen. If anything looks incredibly wrong/off-axis, that's because it is. Perfection is not our goal right now, but rather to have the foundation laid and to be able to explore it before perfecting it using math and world editing tools.
 
 ### Sattelite view as of May 12th (scroll down for screenshots)
 ![Staunton, Virginia Map in Minecraft](https://i.imgur.com/td1QrGl.png)
