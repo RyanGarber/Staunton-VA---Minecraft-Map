@@ -3,7 +3,7 @@ Work in progress map of the entirety of Staunton, Virginia. I work on the map pr
 
 If anything looks incredibly wrong/off-axis, that's because it is. **Perfection is not our goal right now**, but rather to have the foundation laid and to be able to explore it before perfecting it using math and world editing tools. Keep in mind that all bodies of water, roads, topography, and some buildings are imported from online map data, so it should be spot-on accurate for the most part.
 
-Also, interestingly enough, you can simply walk in any direction from the center of Staunton and explore the entire Earth, inch by inch. This is a first for video games. Exploring Manhattan as a flat grassy island with empty roads, then climbing the Great Pyramids in one game world is nothing short of amazing. A side effect of the Pyramids being generated (since they're not buildings, they get counted in the topography) is that they are round at the top. You'll find infinite interesting things like this - after all, it's the entire planet.
+Also, interestingly enough, you can simply walk in any direction from the center of Staunton and explore the entire Earth, inch by inch. This is a first for video games. Any coordinate on the entire planet can be explored by typing ``/tpll <longitude> <latitude>`` in chat, which I highly suggest you do! For more info on getting the mods to play, as well as how to contribute, and to see other locations that have been done in Virginia and around the world: [BuildTheEarth.net](https://BuildTheEarth.net)
 
 ### Sattelite view as of May 12th (scroll down for screenshots)
 ![Staunton, Virginia Map in Minecraft](https://i.imgur.com/td1QrGl.png)
