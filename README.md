@@ -6,7 +6,7 @@ Work in progress map of the entirety of Staunton, Virginia. I work on the map pr
 I use mods for bulk-editing, but the only computer-generated part of the world is the roads. All buildings are built by hand using coordinates and ratios for scale.
 
 ### Why?
-Because I can. Also for the Build The Earth project.
+See: Build The Earth project - though I started this project before that had been announced.
 
 ## Updates
 ### Day 1
