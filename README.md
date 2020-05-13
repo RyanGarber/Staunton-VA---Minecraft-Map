@@ -1,6 +1,9 @@
 # Staunton, VA Minecraft Map
 Work in progress map of the entirety of Staunton, Virginia. I work on the map pretty much daily and *should*(tm) post updates here, as they happen.
 
+### Sattelite view as of May 12th (scroll down for screenshots)
+![Staunton, Virginia Map in Minecraft](https://i.imgur.com/td1QrGl.png)
+
 ## FAQ
 ### Any tools?
 I use mods for bulk-editing, but the only computer-generated part of the world is the roads. All buildings are built by hand using coordinates and ratios for scale.
@@ -32,7 +35,6 @@ The parking garage and all surrounding buildings were built. The Amtrak station 
 
 
 ### Day 4
-![Staunton S New St - W Johnson St - Stonewall Jackson Hotel skyline in Minecraft](https://i.imgur.com/Y85EiLO.png)
 ![Downtown Staunton skyline in Minecraft](https://i.imgur.com/YMVcpFq.png)
 ![Downtown Staunton skyline in Minecraft](https://i.imgur.com/JEj5NEY.png)
 Walls went up for many blocks and sidewalks installed. Multiple alleyways were made and tens of buildings.
