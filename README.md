@@ -1,4 +1,9 @@
 # Staunton, VA Minecraft Map
+
+> Update May 13th: you can now download the [Build The Earth modpack](https://www.twitch.tv/downloads) on the Twitch app, or install Minecraft Forge 1.12.2 manually to join the server and look around!
+>
+> ### IP: mc.ryan.gq
+
 Work in progress map of the entirety of Staunton, Virginia. I work on the map pretty much daily and *should*(tm) post updates here, as they happen.
 
 If anything looks incredibly wrong/off-axis, that's because it is. **Perfection is not our goal right now**, but rather to have the foundation laid and to be able to explore it before perfecting it using math and world editing tools. Keep in mind that all bodies of water, roads, topography, and some buildings are imported from online map data, so it should be spot-on accurate for the most part.
