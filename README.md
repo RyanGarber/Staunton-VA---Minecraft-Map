@@ -1,26 +1,8 @@
-# Staunton, VA Minecraft Map
+# 2023 Update
+This project has been restarted, so these screenshots are no longer accurate. The current state of the build is now in this repo.
+See [BuildTheEarth-Manual-Install](https://github.com/RyanGarber/BuildTheEarth-Manual-Install) and BuildTheEarth YouTube tutorials if you'd like to contribute.
 
-> Update May 13th: you can now download the [Build The Earth modpack](https://www.twitch.tv/downloads) on the Twitch app, or simply install [Minecraft Forge 1.12.2](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html) by itself using the installer to join the server and look around!
->
-> ### IP: mc.ryan.gq
-
-Work in progress map of the entirety of Staunton, Virginia. I work on the map pretty much daily and *should*(tm) post updates here, as they happen.
-
-If anything looks incredibly wrong/off-axis, that's because it is. **Perfection is not our goal right now**, but rather to have the foundation laid and to be able to explore it before perfecting it using math and world editing tools. Keep in mind that all bodies of water, roads, topography, and some buildings are imported from online map data, so it should be spot-on accurate for the most part.
-
-Also, interestingly enough, you can simply walk in any direction from the center of Staunton and explore the entire Earth, inch by inch. This is a first for video games. Any coordinate on the entire planet can be explored by typing ``/tpll <longitude> <latitude>`` in chat, which I highly suggest you do! For more info on getting the mods to play, as well as how to contribute, and to see other locations that have been done in Virginia and around the world: [BuildTheEarth.net](https://BuildTheEarth.net)
-
-### Sattelite view as of May 12th (scroll down for screenshots)
-![Staunton, Virginia Map in Minecraft](https://i.imgur.com/td1QrGl.png)
-
-## FAQ
-### Any tools?
-I use mods for bulk-editing, but the only computer-generated part of the world is the roads. All buildings are built by hand using coordinates and ratios for scale.
-
-### Why?
-See: Build The Earth project - though I started this project before that had been announced.
-
-## Updates
+## Previous Attempt
 ### Day 1
 ![Staunton US-250/US-11 rail bridge in Minecraft](https://i.imgur.com/HtqeyiR.png)
 ![Staunton Junction gas station in Minecraft](https://i.imgur.com/fY36CAF.png)
