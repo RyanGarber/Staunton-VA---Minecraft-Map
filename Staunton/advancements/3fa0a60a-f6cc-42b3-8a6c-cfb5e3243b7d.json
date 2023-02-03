@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2023-02-03 01:47:16 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2023-01-29 01:21:23 -0500"
